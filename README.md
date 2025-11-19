@@ -2,9 +2,9 @@
 # Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 Ex.4 Deployment and configuration of a Private Cloud  in AWS
 
-Name:SWATHI T
+Name:THARUN P
 
-Reg no:212223060282
+Reg no:212223060289
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
